@@ -1,0 +1,22 @@
+<?php
+return array(
+	'template/*' => array('body'),
+	'message' => array('body'),
+	'message-reply/*' => array('body'),
+	'message-forward/*' => array('body'),
+	'user/*/email' => array('body'),
+	'award' => array('description'),
+	'award/*' => array('description'),
+	'library' => array('description'),
+	'library/*' => array('description'),
+	'announcement' => array('description'),
+	'announcement/*' => array('description'),
+	'task' => array('description'),
+	'task/*' => array('description'),
+	'ticket' => array('description'),
+	'ticket/*/reply' => array('description'),
+	'daily-report' => array('description'),
+	'daily-report/*' => array('description'),
+	'job' => array('description','experience','qualification'),
+	'job/*' => array('description','experience','qualification'),
+	);

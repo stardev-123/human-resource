@@ -1,0 +1,19 @@
+<?php
+return array(
+    'home',
+    'user',
+    'client',
+    'attendance',
+    'holiday',
+    'leave',
+    'payroll',
+    'award',
+    'library',
+    'daily_report',
+    'announcement',
+    'expense',
+    'task',
+    'ticket',
+    'message',
+    'job',
+    );
